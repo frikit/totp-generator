@@ -13,3 +13,5 @@
 * [TOTP algorithm specifications](https://tools.ietf.org/html/rfc6238)
 * [TOTP algorithm Java implementation](https://tools.ietf.org/html/rfc6238#appendix-A)
 * [HOTP algorithm specifications](https://tools.ietf.org/html/rfc4226)
+
+The library is designed as a dependency for API Platform services and is subject to significant change without notice.
